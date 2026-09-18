@@ -1,3 +1,7 @@
 #include <iostream>
 
-std::cout << "Já tá tarde";
+int main()
+{
+    std::cout << "Já tá tarde";
+    return 0;
+}
