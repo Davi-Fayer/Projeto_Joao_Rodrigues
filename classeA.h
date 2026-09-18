@@ -37,6 +37,11 @@ public:
     {
         std::cout << "MA2" << std::endl;
     }
+
+    void MA3()
+    {
+        std::cout << "Alteração a classe A partir do clone" << std::endl;
+    }
 };
 
 #endif
