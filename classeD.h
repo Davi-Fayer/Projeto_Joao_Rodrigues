@@ -19,6 +19,11 @@ public:
     {
         std::cout << "MD2" << std::endl;
     }
+
+    void MD3()
+    {
+        std::cout << "MD2" << std::endl;
+    }
 };
 
 #endif
