@@ -22,7 +22,7 @@ public:
 
     void MD3()
     {
-        std::cout << "MD2" << std::endl;
+        std::cout << "MD3" << std::endl;
     }
 };
 
