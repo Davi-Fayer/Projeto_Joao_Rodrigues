@@ -37,6 +37,10 @@ public:
     {
         std::cout << "MB2" << std::endl;
     }
+    void MB3()
+    {
+        std::cout << "MB3" << std::endl;
+    }
 };
 
 #endif
