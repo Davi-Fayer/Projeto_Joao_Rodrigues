@@ -20,15 +20,13 @@ public:
         std::cout << "MD2" << std::endl;
     }
 
-<<<<<<< HEAD
     void MD3()
     {
         std::cout << "MD3" << std::endl;
-=======
+    }
     void MD4()
     {
         std::cout << "MD4" << std::endl;
->>>>>>> 4c2b583a4478a3799ee430c495f9f09544d42eef
     }
 };
 
